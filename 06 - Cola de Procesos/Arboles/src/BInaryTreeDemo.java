@@ -31,4 +31,5 @@ public class BInaryTreeDemo {
 		System.out.println();
 		t4.printPreOrder();
 	}
+	
 }
